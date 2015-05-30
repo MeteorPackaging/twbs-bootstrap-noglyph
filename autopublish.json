@@ -1,0 +1,11 @@
+{
+  "version": "3.3.4",
+  "upstream": {
+    "git": "https://github.com/twbs/bootstrap.git",
+    "release": "v3.3.4",
+    "versionFile": "package.js"
+  },
+  "hook": {
+    "repoFullName": "twbs/bootstrap"
+  }
+}
