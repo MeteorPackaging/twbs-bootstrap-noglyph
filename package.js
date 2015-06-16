@@ -1,7 +1,7 @@
 Package.describe({
   name: 'twbs:bootstrap-noglyph',  // http://atmospherejs.com/twbs/bootstrap-noglyph
   summary: 'Bootstrap without the Glyphicons font (official): the most popular HTML/CSS/JS responsive framework',  // limited to 100 characters
-  version: '3.3.4',
+  version: '3.3.5',
   git: 'https://github.com/MeteorPackaging/twbs-bootstrap-noglyph.git'
 });
 
